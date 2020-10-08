@@ -31,7 +31,7 @@ twitter_username: jekyllrb
 github_username:  andrewheermans
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minima
 plugins:
   - jekyll-feed
 
