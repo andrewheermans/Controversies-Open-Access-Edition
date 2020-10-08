@@ -6,9 +6,9 @@ categories: jekyll update
 ---
 
 > In this chapter, you will learn:
-how to distinguish between claims, reasons and evidence in an argument.
-how to distinguish between three kinds of reasons (to trust, feel, and believe).
-how to connect reasons given in an argument to the claim(s) and evidence in an argument.
+* how to distinguish between claims, reasons and evidence in an argument.
+* how to distinguish between three kinds of reasons (to trust, feel, and believe).
+* how to connect reasons given in an argument to the claim(s) and evidence in an argument.
 
 Arguments happen in places—at parties, in magazines, on websites. And the place matters a lot. One argument will be very well received in one place but not in another. Your friends will likely agree when you say that a professor should move an exam date so that you can go home early for spring break. On the other hand, saying the same thing to the professor would not persuade. In the previous chapter, we offered tools for analyzing situation and context, the places where arguments happen. Context is the most important rhetorical element because the best argument in the worst place or at the wrong time will fail miserably.
 
@@ -84,6 +84,7 @@ Like reasons to feel, reasons to believe focus on the subject. Rather than askin
 
 Reasons to believe can be broken up into different types. In Chapter 8, we explore a few such types of reasons to believe. In this chapter, to help you analyze reasons to believe, we will emphasize the basic form that they all share. Every reason to believe asks the audience to conclude something based on something else. A speaker asks the audience to conclude that another full-blown U.S. war in the Middle East would be an unwinnable mess. They supports this argument by comparing a war in the Middle East to the Vietnam War or to the more recent wars in Afghanistan and Iraq. A speaker asks the audience to conclude that the president of a company should be blamed for its corruption based on the common knowledge that a fish rots from the head down. A speaker asks the audience to conclude that people over the age of 18 should be allowed to drink alcohol because these same people can vote in elections and serve in the military. In each of these cases, you have two elements: a conclusion and a proof. The proof leads to the conclusion. You can paraphrase each reason to believe using a simple template:
 ![diagram with the word proof on one side of an arrow and the word conclusion on the other, the word so being contained within the arrow. The diagram reads proof, therefore conclusion.](https://raw.githubusercontent.com/andrewheermans/Controversies-Open-Access-Edition/gh-pages/controversies-diagram-ch5.png)
+
 Here’s how the above reasons to believe translate into the simple template:
 * A war in the Middle East would be just like the Vietnam War (or the wars in Afghanistan and Iraq), SO a war in the Middle East would be an unwinnable mess.
 * A fish rots from the head down, SO Kenneth Lay was responsible for all the corruption at Enron.
