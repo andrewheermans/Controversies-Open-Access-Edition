@@ -31,11 +31,11 @@ twitter_username: jekyllrb
 github_username:  andrewheermans
 
 # Build settings
+show excerpts: true 
 theme: minima
 plugins:
   - jekyll-feed
-  
-show_excerpts: true
+ 
 
 # Exclude from processing.
 # The following items will not be processed, by default.
