@@ -1,0 +1,66 @@
+---
+layout: post
+title:  "Chapter 5: Analyzing Reasons"
+date:   2020-07-23 08:46:01 -0500
+categories: jekyll update
+---
+
+> In this chapter, you will learn:
+how to distinguish between claims, reasons and evidence in an argument.
+how to distinguish between three kinds of reasons (to trust, feel, and believe).
+how to connect reasons given in an argument to the claim(s) and evidence in an argument.
+
+Arguments happen in places—at parties, in magazines, on websites. And the place matters a lot. One argument will be very well received in one place but not in another. Your friends will likely agree when you say that a professor should move an exam date so that you can go home early for spring break. On the other hand, saying the same thing to the professor would not persuade. In the previous chapter, we offered tools for analyzing situation and context, the places where arguments happen. Context is the most important rhetorical element because the best argument in the worst place or at the wrong time will fail miserably.
+
+The next two chapters offer tools for analyzing the text—the parts of an argument and their relation to one another. This chapter will focus on reasons, and the next chapter will discuss evidence. Both reasons and evidence encourage an audience to believe a claim. Speakers invent or make up reasons. Speakers find or research evidence. When we say that reasons are invented, we don’t mean that they are fictitious or false. We mean that reasons come from creativity. Evidence comes from research. Speakers generally find their reasons first. When trying to think of ways to appeal to an audience, ask yourself, “How can I get these people to trust me? To feel a certain way? To do something?” The answers to these questions lead you to possible reasons. If the reasons by themselves are not convincing, then you may need to find evidence that will further support your reasons.
+
+To illustrate, let’s go back to our earlier example: trying to convince a professor to delay the mid-term exam so you can go home early for spring break. For this audience (the professor) in this situation (the classroom), your argument is not convincing. So you need to think of some good reasons. You brainstorm for a little while. Here’s what you invent:
+1. Delaying the exam will let you (the professor) go home early too.
+2. Delaying the exam will let us (the students) study over spring break, so we (students) will be better prepared for the final.
+3. Delaying the exam will let us (the students) spend valuable time with our families.
+
+
+You decide that the third reason is most likely to convince your professor because you’ve heard them explain that they care about student performance.
+
+So you go to class, and you state your claim followed by your reason. When they hear your argument, your professor chuckles a bit and responds, “You won’t study over spring break; you’ll forget a lot of what you’ve learned; and you’ll do even worse on the mid-term.” Undaunted, you decide that you will find some evidence to support your reason. How about a survey? You ask all the students in the class if they studied over Thanksgiving break. Seventy-two percent (72%) report that they did. Or maybe you find some examples from previous classes. Last fall, three biology seminars had tests right before Thanksgiving break, and two had tests right after. You learn that students in the seminars with exams after Thanksgiving break earned much higher grades than students with exams before Thanksgiving break. Of course, we’re just making up this evidence as an example. It may be entirely false, and false evidence will make an argument embarrassingly unconvincing. Liars invent evidence. Convincing speakers invent reasons; then they find evidence.
+
+Sometimes, reasons do not require evidence. You don’t need to prove to your professor that letting students take the exam after spring break will allow them to leave town a day early too. We will discuss the relationship between reasons and evidence more fully in the next chapter. For now, we encourage you to make this distinction: Speakers invent reasons, but they find evidence. And we encourage you to notice that evidence is typically—but not always—introduced to support reasons.
+
+Like many guides to rhetoric and argumentation—some over 2,000 years old—we divide reasons into three categories: reasons to trust the speaker; reasons to feel a certain way; reasons to believe a certain thing. An effective argument will offer some combination of all three. Next, we define each type of reason, and we explain how it contributes to an argument’s efficacy.
+
+## Reasons to Trust
+The first thing that a speaker must do is to win the audience’s trust. If you don’t trust someone, you won’t believe what he says, no matter how well researched, persuasive, or moving the message might be. In fact, a persuasive argument coming from someone you don’t trust is likely to be doubly rejected. You might think that such an untrustworthy person has persuaded you by lying and manipulating your emotions. If you do trust someone, on the other hand, then you will be more likely to feel what they ask you to feel and to believe what they ask you to believe.
+
+In the previous chapter, we discussed two types of information that you can learn about the speaker: invented information and situated information. The situated information is the evidence—the information that the audience already knows about the speaker. Knowing that someone is a research scientist, a university professor, an award-winning journalist, or a famous inventor will make an audience more inclined to trust what they say. But there are other invented reasons to trust a speaker. Even if we don’t know a person’s expertise beforehand, we can pay close attention to the information that he presents. If he offers plenty of factual information, cites authorities, and seems to know the subject, then we have good reason to trust him just as we would an expert authority. A speaker who has both the situated and the invented expertise—a renowned research scientist who speaks authoritatively—will surely gain the audience’s trust.
+
+When you are looking for the textual elements that earn an audience’s trust, we encourage you to find the situated information about the speaker, but we also encourage you to look for the invented reasons. Within the text, a speaker can show that they are smart and well informed by demonstrating two things: knowledge of the subject and an ability to respond appropriately to the situation.
+
+> **Knowledge of the subject:** Someone who shows you that they’ve  learned a lot of information about a subject is someone you will likely trust as an authority even if they don’t have the credentials.
+>
+**An ability to respond appropriately to the situation:** An effective communicator knows when to speak and in what manner. We make decisions like this constantly in our daily lives: when we compose emails to our bosses and begin with “Dear Mr. Caulfield,” call our grandmothers and avoid cursing and expletives, and talk to toddlers about babas and milkie and Elmo. In this textbook, we the writers have made conscious decisions about our style to show that we understand the classroom situation. Since we’re writing to students, we have chosen to write in a somewhat informal style. We use first- and second-person pronouns (we, you); we use contractions (don’t, isn’t); we throw in the occasional sentence fragment (“How about a survey?”).
+
+Knowledge of the subject and appropriateness of the writing style give the audience reason to trust an informed and intelligent speaker. Two other elements give the audience reasons to trust a speaker by allowing them to relate to the speaker personally—membership in a community and demonstration of goodwill.
+
+> **Membership in a community:** We tend to trust people who belong to our community because they share our interests, our values, and our concerns. The speaker might show the audience that she belongs to their community by referencing common knowledge. By mentioning information about themselves or their past. By confessing interests and values that the community will recognize.
+>
+**Demonstration of goodwill:** We trust people who show us that they have our best interests at heart. The speaker might directly say that they want to help the audience. Or they might show, through some other gesture, that they want the audience to prosper. In this textbook, we try to demonstrate goodwill by writing in a friendly manner. A clear and somewhat informal writing style shows that we care about your education. We don’t want to flaunt our erudition with abstruse verbiage. (If we did, we’d use more words like “flaunt,” “erudition,” and “abstruse.”) We want to teach so that you can learn.
+
+In sum, we suggest that there are four very common reasons to trust a speaker:
+1. They demonstrate that they know the subject.
+2. They speak appropriately to the audience and to the situation.
+3. They make themselves recognizable as part of the audience’s community.
+4. They appear to bear the audience goodwill.
+
+In our discussion, we have focused on elements of writing that can deliver these reasons, but we want to emphasize that other elements in an argument can give the audience a reason to trust the speaker. Music in the background of a car commercial can show the audience that the company knows their taste and belongs to their community—country and western for a commercial that airs in rural Texas, hip-hop for one that plays in Houston. A U.S. flag pin on a senator’s lapel shows that they belong to the national community. Wearing a fleece pullover or a casual shirt (instead of a suit) while touring a disaster site shows that a U.S. president can dress appropriately to the situation. We trust them because they are ready to roll up their sleeves and fix this mess. A reason to trust can be any element that encourages the audience to imagine the speaker as an authority, as a member of the community, as someone who understands the situation, or as someone who cares about the audience.
+
+> <span style="color:blue"> **Further Discussion:** Do a quick Google Search to find an viewpoint article related to your controversy. Is the author’s writing style appropriate to their subject? Do they write about a serious matter in a joking way? Do they show you that they belongs to your community or to the audience’s community? Does they seem informed about his subject? How do they show you that they’ve thoroughly researched this topic? Notice also that many opinion articles published in newspapers include a brief biography of the author. Does the biography (a bit of situated evidence about the speaker) give you additional reason to trust the author?
+> Reasons to Feel
+While reasons to trust focus on the speaker, reasons to feel focus on the subject. Effective communicators appeal to their audience’s emotions: fear, anger, sadness, passion, pride, love, insecurity, honor, belonging, confidence, isolation, empathy. In verbal media like books, articles, and speeches, the speaker uses words, phrases, diction, syntax, voice, and rhythm to create emotions that can persuade. In graphic media like photographs, artists use color, lines, framing, angle, and more to create emotions that can persuade. In multimedia texts like movies and ads, directors and editors use color, light, dialogue, voiceover, music, timing, and more to generate feelings.
+
+## Reasons to Feel
+
+While reasons to trust focus on the speaker, reasons to feel focus on the subject. Effective communicators appeal to their audience’s emotions: fear, anger, sadness, passion, pride, love, insecurity, honor, belonging, confidence, isolation, empathy. In verbal media like books, articles, and speeches, the speaker uses words, phrases, diction, syntax, voice, and rhythm to create emotions that can persuade. In graphic media like photographs, artists use color, lines, framing, angle, and more to create emotions that can persuade. In multimedia texts like movies and ads, directors and editors use color, light, dialogue, voiceover, music, timing, and more to generate feelings.
+
+<span style="color:blue"> **Further Discussion:** Commercials for products work because they create insecurity and/or desire, and then they present their product as the “cure” for both emotions. With GIFs like the one below, audiences acknowledge that they know they have been manipulated by a product, but they don’t care. They want it anyway. Think of a time you knew you were being persuaded to buy something and bought the thing anyway. What about the product or the advertisement or presentation of the product made you want it anyway? What did the marketers do so right? What emotions other than insecurity and desire do you think marketers harness and create?
+
+! [Black and white gif showing a baby throw money out of the wind with bottom text reading: shut up and take my money!](https://raw.githubusercontent.com/andrewheermans/Controversies-Open-Access-Edition/gh-pages/controversies-baby-gif.gif)
