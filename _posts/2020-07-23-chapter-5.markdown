@@ -115,7 +115,8 @@ To help you further in your efforts at analyzing reasons, below we offer some ge
 Last, we want to explicitly mention the tasks that any rhetorical analyst must do in order to analyze a reason. First, you must locate the persuasive elements in a text. Then, you must identify each element as a kind of reason. Next, you must explain the intended effect on the audience. Finally, you must explain how this reason relates to the others in the argument.
 
 > <span style="color:purple"> **Chapter Assignment:**  The following table breaks down the tasks you should complete whenever you analyze reasons in an argument:
-<span style="color:purple"> | **1. Find the persuasive element** | **2. Identify this element as a kind of reason** | **3. Explainthe effect that this reason should have on the audience** | **4. Explain how this reason relates to other reasons or to the principal claim** |
+
+| **1. Find the persuasive element** | **2. Identify this element as a kind of reason** | **3. Explainthe effect that this reason should have on the audience** | **4. Explain how this reason relates to other reasons or to the principal claim** |
 | Johnson describes recent terrorist activities | Reason to feel| It convinces the audience to feel fear | The fear that the audience feels anout terrorism leads them to feel fearful about potential terrorists buying guns |
 | Johnson explains that people who are currently under suspicion for terrorist-related activities can still purchase firearms without restriction | Reason to believe | It convinces the audience to believe that potential terrorists have access to powerful weapons | The belief that terrorists can buy weapons without restriction and the fear of terrorism both combine to support Johnson’s argument that people on the government’s “no-fly” list for terrorist suspects should also be restricted from purchasing firearms. |
 
