@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Controversies - An Open Access Guide to Argumentation
+title: Controversies - An Open-Access Guide to Argumentation
 email: andrewheermans@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 Controversies was originally written for use in “RHE 306: Introduction to Rhetoric & Writing” courses at the University of Texas at Austin.
@@ -31,7 +31,6 @@ twitter_username: jekyllrb
 github_username:  andrewheermans
 
 # Build settings
-show excerpts: true 
 theme: minima
 plugins:
   - jekyll-feed
