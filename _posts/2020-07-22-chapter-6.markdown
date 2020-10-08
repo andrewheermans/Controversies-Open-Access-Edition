@@ -107,6 +107,7 @@ Finally, we want to emphasize that evidence, like reasons, is audience-specific.
 > <span style="color:purple"> **Chapter Assignment:** Play Evidence Bingo! In small groups, using the cards below (or cards you make up yourselves), read several articles out loud. Every time someone spots a kind of evidence, shout out its name. If you have a square on your card that lists the name of that kind of evidence, put an X on the square. The first person to have three in a row wins!
 
 > <span style="color:purple"> Card for Player 1:
+>  
 | Hypothetical Example | Expert Authority | Sign/omen |
 | Testimony | Maxim | Vivid Example |
 | Statistics | Sign/indication of fact | Fable |
@@ -117,13 +118,16 @@ Finally, we want to emphasize that evidence, like reasons, is audience-specific.
 | Maxim | Real Example | Sign/omen |
 | Statistics | Fable | Hypothetical Example |
 
-Card for Player 3:
+
+<span style="color:purple"> Card for Player 3:
   
 | Statistics | Testimony | Sign/omen |
 | Maxim | Hypothetical Example | Vivid Example |
 | Fable | Expert Authority | Sign/indication of fact |
 
-Card for Player 4:
+
+<span style="color:purple"> Card for Player 4:
+  
 | Real Example | Testimony | Vivid Example |
 | Fable | Maxim | Sign /indication of fact/ |
 | Sign/omen | Hypothetical Example | Statistics |
