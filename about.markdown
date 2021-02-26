@@ -13,7 +13,7 @@ We would like to thank Mark Longaker for his decision to make his text open to t
 AUTHOR 
 Mark Garrett Longaker
 
-CO-AUTHORS & DEVELOPERS, DIGITAL EDITION 
+EDITORS & DEVELOPERS, DIGITAL EDITION 
 Sierra Mendez
 Andrew Heermans 
 
