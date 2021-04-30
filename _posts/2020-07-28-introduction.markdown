@@ -5,17 +5,17 @@ date:   2020-07-28 08:46:01 -0500
 categories: jekyll update
 ---
 
-   <background-color:#CE5937>
-   >**In this chapter, you will learn:**
-   >* What a controversy is
-   >* How to characterize different kinds controversies so that you can choose one to focus on for this course
-   >* How to identify pieces of your controversy so that you can begin to research and map it**
-   </background-color:#CE5937>
+ 
+   >>**In this chapter, you will learn:**
+   >>* What a controversy is
+   >>* How to characterize different kinds controversies so that you can choose one to focus on for this course
+   >>* How to identify pieces of your controversy so that you can begin to research and map it**
+  
 
 ## Controversies Defined
-It’s the title of your textbook, and it’s the subject of this rhetoric and writing course. While taking this class, you will choose, research, analyze, and contribute to a current controversy. So what is it? Here’s the simplest answer and the easiest way to think about the subject of our course:
+It’s the title of your textbook and it’s the subject of this rhetoric and writing course. While taking this class, you will choose, research, analyze, and participate in discourse about a current controversy. So what is a controversy? Here’s the simplest answer and the easiest way to think about the subject of our course:
 
-**A controversy is something people argue about in public.** And if it were really that simple, then you could skip this introduction and jump right into your first major assignment. But, as you will learn over the course of Unit 1, controversies are complex. Your job in the first unit of class is to research just how complicated a recent or ongoing public controversy is and then explain it through writing for an audience that might include:
+**A controversy is something people argue about in public.** And if it were really that simple, then you could skip this introduction and jump right into your first major assignment. But, as you will learn over the course of Unit 1, controversies are complex. Your job in the first unit is to research just how complicated a recent or ongoing public controversy is and then explain it through writing for an audience that might include:
 
 * people who don’t know anything about the controversy
 * people who are already interested in your controversy and want to know more
