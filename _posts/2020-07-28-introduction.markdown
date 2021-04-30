@@ -138,7 +138,7 @@ If you suspect that there is a controversy about capital punishment, look for op
 ### Concluding Advice
 In a nutshell: you need to identify a controversy that is recent, public, and has many stakeholders who express different viewpoints. Once you have identified a recent public controversy, you can begin researching its pieces: what people are currently arguing about, who is arguing, and why they take the positions they take. The next chapter will help you find and evaluate sources related to your controversy by focusing on viewpoints.
 
-### Chapter Assignment: Brainstorming Topics & Generating Keywords
+## Chapter Assignment: Brainstorming Topics & Generating Keywords
 Think about two or three issues you think might be controversies and you might be interested in researching. Write a sentence for each that expresses your specific interest. Saying “I’m interested in income inequality,” while important, is too enormous to tackle in one semester. Make it manageable by focusing on a specific issue within income inequality debates such as whether or not the federal government should raise minimum wage. Or whether or not the federal government should mandate student debt relief.
 * Example 1:  I’m interested in the #defundthepolice hashtag and movement within BLM protests
 * Example 2: I’m interested in the lack of protection for women’s health care in government * regulation of insurance companies
