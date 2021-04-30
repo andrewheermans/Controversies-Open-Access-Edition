@@ -14,12 +14,12 @@ We would like to thank <b>Mark Longaker</b> for his decision to make this text a
 Mark Garrett Longaker
 
 
-<b>EDITORS & DEVELOPERS, <i>DIGITAL EDITION</i> > </b>
+<b>EDITORS & DEVELOPERS [DIGITAL EDITION] > </b>
 Sierra Mendez
 and Andrew Heermans 
 
 
-<b>EDITORS, <i>PRINT EDITION</i> > </b>
+<b>EDITORS [PRINT EDITION] > </b>
 Ashley Miller,
 Andrew Rechnitz,
 Michael Neibergail,
