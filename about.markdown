@@ -18,8 +18,8 @@ Sierra Mendez
 and Andrew Heermans 
 
 <b>EDITORS, PRINT EDITION</b>
-Ashley Miller
-Andrew Rechnitz
-Michael Neibergail
-Suzanne Bachelor
+Ashley Miller,
+Andrew Rechnitz,
+Michael Neibergail,
+Suzanne Bachelor,
 and Aaron Zacks 
