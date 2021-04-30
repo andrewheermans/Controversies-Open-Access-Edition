@@ -6,8 +6,8 @@ permalink: /How To Use This Book/
 
 <i>Controversies</i> is based on a critical proposition: that students can develop vital skills when they engage in long-term projects that require repeated application of new knowledge and aptitudes. This book asks students to invest in understanding a current issue and offers a guide for developing their ability to participate in its discourse across a semester. 
 
-**Introduction: What is a Controversy?:** 
-The opening chapter provides explanation of core concepts students and instructors will use throughout the semester to choose, understand, analyze, and develop arguments for their chosen controversy.
+**Controversies and Public Discourse:** 
+The opening chapter provides explanation of core concepts students and instructors will use throughout the semester to choose, understand, analyze, and develop arguments for their chosen controversy. It offers guidelines for choosing an issue and descriptions for key considerations for asking questions about complex conversations.
 
 **Sources + Research:** 
 Chapters 1-3 teach students how to conduct research and evaluate types of sources.  Students are taught to: identify credibility and bias in 21st century sources; fairly summarize and represent author intention and argument; and determine how a source is useful for their project. At the end of this unit, students are expected to produce writing that provides an overview of their chosen controversy, synthesizing its history, its current complexities, and its range of viewpoints.
