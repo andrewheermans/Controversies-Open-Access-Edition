@@ -6,10 +6,10 @@ categories: jekyll update
 ---
 
  
-   >>**In this chapter, you will learn:**
-   >>* What a controversy is
-   >>* How to characterize different kinds controversies so that you can choose one to focus on for this course
-   >>* How to identify pieces of your controversy so that you can begin to research and map it**
+   >>>**In this chapter, you will learn:**
+   >>>* What a controversy is
+   >>>* How to characterize different kinds controversies so that you can choose one to focus on for this course
+   >>>* How to identify pieces of your controversy so that you can begin to research and map it**
   
 
 ## Controversies Defined
