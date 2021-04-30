@@ -15,11 +15,11 @@ Mark Garrett Longaker
 
 <b>EDITORS & DEVELOPERS, DIGITAL EDITION</b>
 Sierra Mendez
-Andrew Heermans 
+and Andrew Heermans 
 
 <b>EDITORS, PRINT EDITION</b>
 Ashley Miller
 Andrew Rechnitz
 Michael Neibergail
 Suzanne Bachelor
-Aaron Zacks 
+and Aaron Zacks 
