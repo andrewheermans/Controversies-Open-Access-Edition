@@ -11,25 +11,17 @@ Denying offers from textbook publishers, the book’s original author has decide
 We would like to thank <b>Mark Longaker</b> for his decision to make this text accessible to the public and for the opportunity to work on this project. We would also like to thank <b>Casey Boyle</b> and the <b>Digital Writing & Research Lab</b> for supporting this endeavor. 
 
 <b>AUTHOR</b> 
-
 Mark Garrett Longaker
 
 
 <b>EDITORS & DEVELOPERS, DIGITAL EDITION</b>
-
 Sierra Mendez
-
 Andrew Heermans 
 
 
 <b>EDITORS, PRINT EDITION</b>
-
 Ashley Miller
-
 Andrew Rechnitz
-
 Michael Neibergail
-
 Suzanne Bachelor
-
 Aaron Zacks 
