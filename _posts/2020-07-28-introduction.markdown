@@ -152,7 +152,7 @@ Think about two or three issues you think might be controversies and you might b
 * What long-term issues do I already know this topic is part of?
 >
 <span style="color:red">**Choosing your controversy:** Look over what you’ve written. Based on this activity and this chapter, can each of  your potential topic ideas be characterized as a recent, public controversy? Does each fulfill your instructor’s requirements? Can any of your ideas be weeded out? If all of the topics you came up with are recent, public controversies, you have a few options. You can:
->>>1. Go ahead and pick the one you’re most interested in now to research in Chapter 2
->>>2. Use Chapter 2 to do some research about each of your choices and choose based on what you find
+1. go ahead and pick the one you’re most interested in now to research in Chapter 2 OR
+2. use Chapter 2 to do some research about each of your choices and choose based on what you find
 >
 <span style="color:red">**Generating keywords for research:** Because of the brainstorming you’ve done, you can now begin researching your controversy. Reread your answers and circle terms that appear most often or that seem most important. For Example 1 (above), my keyword list might look something like: “Black Lives Matter,” “police brutality,” “Blue Lives Matter,” “All Lives Matter,” “law enforcement,” “funding,” “protests,” “discrimination,” “militarization,” “hashtag activism,” etc. Using and combining these keywords and phrases in different ways will help you conduct effective research in the next chapter.</span>
