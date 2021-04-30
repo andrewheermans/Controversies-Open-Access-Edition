@@ -5,12 +5,12 @@ date:   2020-07-28 08:46:01 -0500
 categories: jekyll update
 ---
 
-   background-color:#CE5937;
+   <background-color:#CE5937>
    >**In this chapter, you will learn:**
    >* What a controversy is
    >* How to characterize different kinds controversies so that you can choose one to focus on for this course
    >* How to identify pieces of your controversy so that you can begin to research and map it**
-   /background-color:#CE5937;
+   </background-color:#CE5937>
 
 ## Controversies Defined
 It’s the title of your textbook, and it’s the subject of this rhetoric and writing course. While taking this class, you will choose, research, analyze, and contribute to a current controversy. So what is it? Here’s the simplest answer and the easiest way to think about the subject of our course:
