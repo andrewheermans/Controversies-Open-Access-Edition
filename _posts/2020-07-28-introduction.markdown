@@ -138,21 +138,21 @@ If you suspect that there is a controversy about capital punishment, look for op
 ### Concluding Advice
 In a nutshell: you need to identify a controversy that is recent, public, and has many stakeholders who express different viewpoints. Once you have identified a recent public controversy, you can begin researching its pieces: what people are currently arguing about, who is arguing, and why they take the positions they take. The next chapter will help you find and evaluate sources related to your controversy by focusing on viewpoints.
 
->>> <span style="color:red"> **Chapter Assignment: Brainstorming Topics & Generating Keywords**
+### Chapter Assignment: Brainstorming Topics & Generating Keywords
 Think about two or three issues you think might be controversies and you might be interested in researching. Write a sentence for each that expresses your specific interest. Saying “I’m interested in income inequality,” while important, is too enormous to tackle in one semester. Make it manageable by focusing on a specific issue within income inequality debates such as whether or not the federal government should raise minimum wage. Or whether or not the federal government should mandate student debt relief.
->>> * Example 1:  I’m interested in the #defundthepolice hashtag and movement within BLM protests
->>> * Example 2: I’m interested in the lack of protection for women’s health care in government * regulation of insurance companies
->>> * Example 3: I’m interested in hydrofracking in North Texas
+* Example 1:  I’m interested in the #defundthepolice hashtag and movement within BLM protests
+* Example 2: I’m interested in the lack of protection for women’s health care in government * regulation of insurance companies
+* Example 3: I’m interested in hydrofracking in North Texas
 >
->>> <span style="color:red"> After you’ve named some potential topics, brainstorm by pre-writing or mindmapping what you already know about the issues. Ask yourself: </span>
->>> * What do I already know is affected by this issue?
->>> * Who do I already know is a stakeholder?
->>> * What do I already know about these stakeholders’ interests, beliefs, and values?
->>> * What viewpoints do I already know people have about this issue?
->>> * What long-term issues do I already know this topic is part of?
+<span style="color:red"> After you’ve named some potential topics, brainstorm by pre-writing or mindmapping what you already know about the issues. Ask yourself: </span>
+* What do I already know is affected by this issue?
+* Who do I already know is a stakeholder?
+* What do I already know about these stakeholders’ interests, beliefs, and values?
+* What viewpoints do I already know people have about this issue?
+* What long-term issues do I already know this topic is part of?
 >
->>><span style="color:red">**Choosing your controversy:** Look over what you’ve written. Based on this activity and this chapter, can each of  your potential topic ideas be characterized as a recent, public controversy? Does each fulfill your instructor’s requirements? Can any of your ideas be weeded out? If all of the topics you came up with are recent, public controversies, you have a few options. You can:
+<span style="color:red">**Choosing your controversy:** Look over what you’ve written. Based on this activity and this chapter, can each of  your potential topic ideas be characterized as a recent, public controversy? Does each fulfill your instructor’s requirements? Can any of your ideas be weeded out? If all of the topics you came up with are recent, public controversies, you have a few options. You can:
 >>>1. Go ahead and pick the one you’re most interested in now to research in Chapter 2
 >>>2. Use Chapter 2 to do some research about each of your choices and choose based on what you find
 >
->>><span style="color:red">**Generating keywords for research:** Because of the brainstorming you’ve done, you can now begin researching your controversy. Reread your answers and circle terms that appear most often or that seem most important. For Example 1 (above), my keyword list might look something like: “Black Lives Matter,” “police brutality,” “Blue Lives Matter,” “All Lives Matter,” “law enforcement,” “funding,” “protests,” “discrimination,” “militarization,” “hashtag activism,” etc. Using and combining these keywords and phrases in different ways will help you conduct effective research in the next chapter.</span>
+<span style="color:red">**Generating keywords for research:** Because of the brainstorming you’ve done, you can now begin researching your controversy. Reread your answers and circle terms that appear most often or that seem most important. For Example 1 (above), my keyword list might look something like: “Black Lives Matter,” “police brutality,” “Blue Lives Matter,” “All Lives Matter,” “law enforcement,” “funding,” “protests,” “discrimination,” “militarization,” “hashtag activism,” etc. Using and combining these keywords and phrases in different ways will help you conduct effective research in the next chapter.</span>
