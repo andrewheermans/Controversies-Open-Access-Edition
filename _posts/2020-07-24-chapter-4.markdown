@@ -77,12 +77,13 @@ Everything in the text apart from the claim either supports or undermines the cl
 As shown above, the reason and the evidence work together to convince the audience that they should feel a certain way. In the next two chapters, we will talk in much greater detail about reasons and evidence. For now, as you initially consider the text you want to analyze, we encourage you to separate the claim from the rest of the material in the argument. If you can, try to classify anything that’s not a claim as a “reason” or as “evidence.”
 
 ## Chapter Assignment: Identifying Parts of an Argument  
-Below, we offer a table that categorizes the kinds of evidence (both textual and contextual) that you can find to inform your analysis of the speaker, the audience, and the situation. We also offer suggestions for where to look to find such evidence.
+Below, we offer a table that categorizes the kinds of evidence (both textual and contextual) that you can find to inform your analysis of the speaker, the audience, and the situation. We also offer suggestions for where to look to find such evidence in this table: 
 
-| **Rhetorical Situation** | **Textual Evidence** | **Contextual Evidence**
+| **Rhetorical Situation** | **Textual Evidence** | **Contextual Evidence** |
 | --------------- | --------------- | --------------- | --------------- |
-| Wikipedia | Digital | Summary Articles | Heavy |
-| Google | Digital | All kinds | None |
+| Speaker | Digital | Summary Articles | Heavy |
+| Audience | Digital | All kinds | None |
+| Situation | Digital | All kinds | None |
 
 | **Rhetorical Situation** | **Textual Evidence** | **Contextual Evidence**  
 | **Speaker** | Invented information about the speaker: moments in the text when the speaker identifies their qualities, interests, or knowlege; aspects of the text like writing style or citations that tell you about the speaker's experiences or interests | Situated information about the speaker: biographical information that the audience is likely to know or can find out. This info can be found by looking at other texts the speaker has composed or texts composed about them |  
