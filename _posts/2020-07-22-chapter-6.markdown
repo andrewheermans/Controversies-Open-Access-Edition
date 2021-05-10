@@ -17,7 +17,8 @@ You’ll enjoy your half-hour study sessions. They’re relaxed. Nothing is more
 In our imagined example, there is a reason to believe that certain study habits result in good grades, a reason to trust the speaker, and a reason to feel good about studying every day. The reason to believe seems a bit weak, however. Your friend may wonder, “How do you know that studying every day will lead to better grades? Do you know Eddie? That guy crams for every exam. And he’s a straight-A student!” Your friend has offered evidence—an example—to support their argument. As a result, they favor cramming. You can counter with evidence of your own: examples of people who study every day and proof that Eddie studies every day, despite what he says. All of your additional evidence supports that first reason to believe: Studying for exams a little bit at a time results in better grades, so you should study for thirty minutes every night this week
 
 Often, evidence supports reasons, which themselves support a claim. Evidence, however, may also directly support a claim. Returning to our example, imagine that you add to your argument the following evidence: Your professor says the best way to learn calculus is by practicing a little bit every day. This evidence directly supports your claim that daily study is preferable to cramming. The diagram below illustrates how some of your evidence supports a reason and some of your evidence supports the claim.
-![A diagram that visualizes the contingent relationships between the previously mentioned claims reasons and evidence. The diagram shows how some evidence, such as expert testimony, can directly support a claim, if the testimony's content supports or reaffirms the claim explicitly, where in other cases, a hypothetical or theoretical reason to believe needs evidence to support it.](https://raw.githubusercontent.com/andrewheermans/Controversies-Open-Access-Edition/gh-pages/controversies-diagram-ch6-1.png)
+
+> ![A diagram that visualizes the contingent relationships between the previously mentioned claims reasons and evidence. The diagram shows how some evidence, such as expert testimony, can directly support a claim, if the testimony's content supports or reaffirms the claim explicitly, where in other cases, a hypothetical or theoretical reason to believe needs evidence to support it.](https://raw.githubusercontent.com/andrewheermans/Controversies-Open-Access-Edition/gh-pages/controversies-diagram-ch6-1.png)
 
 We open with this example to explain the difference between reasons and evidence and to show you the basic steps that you should follow when analyzing evidence.
 
@@ -104,35 +105,36 @@ We also want to point out that, even though we suggest analyzing the reasons fir
 
 Finally, we want to emphasize that evidence, like reasons, is audience-specific. It is easy to imagine evidence—especially certain kinds of evidence—as universally persuasive. Who would doubt statistics from the U.S. census, images from the Hubble telescope, or data from the Large Hadron Collider? Though such evidence may be unassailable, it is not universally convincing, nor is it always necessary. You can tell an audience that there are as many stars in the sky as there are grains of sand on the beach without showing elaborate images of the universe. They will likely believe you without the evidence. And you can tell people that the Large Hadron Collider created a quark-gluon plasma that scientists could use to test for supersymmetry, and the audience will not understand you. (We don’t even understand what that means.) Our point is that different kinds and amounts of evidence are needed for different audiences, depending on what each audience believes, feels, understands, and has experienced. When analyzing evidence, your job is to show the connection to the audience. And the same is true of all rhetorical analysis. Rhetorical analysis explains how a text relates to specific people in a given place at a particular time.
 
-> <span style="color:purple"> **Chapter Assignment:** Play Evidence Bingo! In small groups, using the cards below (or cards you make up yourselves), read several articles out loud. Every time someone spots a kind of evidence, shout out its name. If you have a square on your card that lists the name of that kind of evidence, put an X on the square. The first person to have three in a row wins!
+## Chapter Assignment
+Play Evidence Bingo! In small groups, using the cards below (or cards you make up yourselves), read several articles out loud. Every time someone spots a kind of evidence, shout out its name. If you have a square on your card that lists the name of that kind of evidence, put an X on the square. The first person to have three in a row wins!
 
-> <span style="color:purple"> Card for Player 1:
->  
+Card for Player 1:
+ 
 | Hypothetical Example | Expert Authority | Sign/omen |
 | Testimony | Maxim | Vivid Example |
 | Statistics | Sign/indication of fact | Fable |
 
-<span style="color:purple"> Card for Player 2:
->  
+Card for Player 2:
+
 | Expert Authority | Vivid Example | Testimony |
 | Maxim | Real Example | Sign/omen |
 | Statistics | Fable | Hypothetical Example |
 
 
-<span style="color:purple"> Card for Player 3:
+Card for Player 3:
   
 | Statistics | Testimony | Sign/omen |
 | Maxim | Hypothetical Example | Vivid Example |
 | Fable | Expert Authority | Sign/indication of fact |
 
 
-<span style="color:purple"> Card for Player 4:
+Card for Player 4:
   
 | Real Example | Testimony | Vivid Example |
 | Fable | Maxim | Sign /indication of fact/ |
 | Sign/omen | Hypothetical Example | Statistics |
 
-<span style="color:purple"> Card for Player 5:
+Card for Player 5:
   
 | Real Example | Maxim | Statistics |
 | Sign/indication of fact | Vivid Example | Testimony |
