@@ -6,10 +6,10 @@ categories: jekyll update
 ---
 
 > **In this chapter, you will learn:**
-* the purpose and process of rhetorical analysis
-* how to relate specific elements of a text to its context
-* how to identify and write about speaker decision-making in relation to their main argument and their audience
-* the difference between sequential and holistic forms of analysis
+> * the purpose and process of rhetorical analysis
+> * how to relate specific elements of a text to its context
+> * how to identify and write about speaker decision-making in relation to their main argument and their audience
+> * the difference between sequential and holistic forms of analysis
 
 In Chapters 4–6, we offered tools for identifying a text’s context--speaker, audience, and situation—and for labeling the elements of a text’s argument—claim, reasons, and evidence. In this chapter, we offer strategies for relating these elements to one another. Specifically, we offer strategies for analyzing the relationship between the argument and the audience. A good rhetorical analysis paper must accomplish all of these tasks. It must label the important elements in the text; it must point out the relevant parts of the context; and it must explain how these textual and contextual parts fit together into a persuasive (or an unpersuasive) argument.
 
@@ -50,7 +50,7 @@ Our point is that an argument doesn’t need to completely convince an audience 
 
 When explaining why you think the audience will or will not accept an argument’s reasons and evidence, you may rely on the textual information that you find in the argument itself. You may decide, for instance, that because your third reason is supported by copious evidence, it is more likely to convince. The amount of evidence supporting that third reason is textual because you find it in the text itself. But you should also consider finding some contextual information to support your claims. A bit of research might reveal that your friend has demonstrated a lack of sympathy for anyone who came into this country illegally. Maybe they wrote a letter to the editor of your college newspaper saying as much. This kind of contextual information demonstrates something about the audience, and this information helps you to more convincingly explain their reactions. The letter to the editor might prove that they are not at all tolerant of people they call “criminals.” And your friend’s disposition explains their reluctance to entertain some of your reasons.
 
-> <span style="color:purple"> **Brief Exercise:** Make a list of all the reasons and evidence you find in the text you’ve chosen to analyze. Then, next to each item in your list, explain how you think the audience will react to this discrete part of the argument. Next to your prediction of the audience’s reaction, explain why you think they are likely to have this reaction. Finally, next to each explanation, give textual and/or contextual information to support your claim. You can format your list as a table like this one:
+> **Brief Exercise:** Make a list of all the reasons and evidence you find in the text you’ve chosen to analyze. Then, next to each item in your list, explain how you think the audience will react to this discrete part of the argument. Next to your prediction of the audience’s reaction, explain why you think they are likely to have this reaction. Finally, next to each explanation, give textual and/or contextual information to support your claim. You can format your list as a table like this one:
 
 | Reason | Audience’s Reaction | Explanation of Audience’s Reaction | Textual Information | Contextual Information |
 | Reason to feel sympathy for undocumented immigrants who aspire to improve their lives: “Think about how much you value college and how much you hope to benefit from your education. Would you take that opportunity away from someone just because of his citizenship status?” | Not persuaded | Kaitlyn does not feel sympathetic toward anyone who has come into this country illegally. | There is no evidence to support this reason. | In a letter to the editor of the Daily Texan, Kaitlyn said, “Anyone who crosses the U.S. border illegally is a criminal, so we shouldn’t feel bad when they aren’t treated like U.S. citizens.” |
