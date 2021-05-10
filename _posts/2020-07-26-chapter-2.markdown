@@ -129,11 +129,8 @@ So we suggest the following techniques in academic writing to show your audience
 1. Especially when summarizing without a direct quote, offer a citation (a parenthetical mention of the source): Austinites believe that the light rail system is a waste of money and should not be expanded beyond the one train line that Austin currently has (Cullen A23).
 2. Qualify the attribution to specifically mention who believes these things: Some Austinites, such as City Councilwoman Marjorie Cullen, believe that the light rail system is a waste of money and should not be expanded beyond the one train line that Austin currently has (A23).
 3. Provide a direct quote to show your reader that this is in fact what the stakeholder said: Some Austinites, such as City Councilwoman Marjorie Cullen, believe that the light rail system is a waste of money and should not be expanded beyond the one train line that Austin currently has. Cullen asks, “Why throw good money after bad?” Instead, they suggest, “Let’s put more money into good roads” (A23).
-4. Provide a source citation that will show your reader where to find the source: Some Austinites, such as City Councilwoman Marjorie Cullen, believe that the light rail system is a waste of money and should not be expanded beyond the one train line that Austin currently has. Cullen asks, “Why throw good money after bad?” Instead, she suggests, “Let’s put more money into good roads” (A23).
-
->Work Cited
-
->Cullen, Marjorie. “Light Rail a Boondoggle.” Austin Independent 14 Feb. 2012. Web.
+4. Provide a source citation that will show your reader where to find the source: Some Austinites, such as City Councilwoman Marjorie Cullen, believe that the light rail system is a waste of money and should not be expanded beyond the one train line that Austin currently has. Cullen asks, “Why throw good money after bad?” Instead, she suggests, “Let’s put more money into good roads” (A23). Then the Works Cited page would have this entry: 
+1. Cullen, Marjorie. “Light Rail a Boondoggle.” Austin Independent 14 Feb. 2012. Web.
 
 The above techniques will assure your skeptical academic audience that your summary is indeed fair and accurate. As an added bonus, these techniques will show your instructor that you have done your research and that you are not plagiarizing (copying) another person’s work without citation. Plagiarism is a serious academic concern because, when students copy other people’s writing, they do not learn to write themselves. If you always attribute quotes to the people who originally wrote or said these things, if you always cite your sources, and if you always show your instructors when you are directly quoting someone, you will look like a trustworthy source and a good student.
 
