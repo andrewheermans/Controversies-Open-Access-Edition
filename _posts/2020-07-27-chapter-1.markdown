@@ -163,7 +163,7 @@ Keep a research log, a record of where you’ve searched, what search terms you 
 | NexusUni | texas border fence | Typed into search box with no punctuation, searching “all news” from April 1, 2013–April 7, 2013, and exclusively collecting editorials and opinions | A May 15, 2013, article from the Augusta Chronicle about an immigration bill introduced by Marco Rubio. The article includes the phrase “Texas border fence” but does not discuss the fence itself. |
 | NexusUni | texas fence | Typed into search box with no punctuation, searching “all news” for all dates and exclusively collecting editorials and opinions | A May 4, 2008, New York Times article arguing against the fence along the Texas border. |
 
-> After you’ve done a few searches using different keywords, different parameters, and different research tools, answer the following questions:
+After you’ve done a few searches using different keywords, different parameters, and different research tools, answer the following questions:
 * Which search terms lead you to the most relevant results?
 * Which search terms and databases reliably lead to information sources? Viewpoint sources?
 * Which search terms and databases lead you to credible sources?
