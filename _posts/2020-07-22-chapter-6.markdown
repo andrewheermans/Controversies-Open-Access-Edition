@@ -6,14 +6,14 @@ categories: jekyll update
 ---
 
 > **In this chapter, you will learn:**
-* How evidence is used in arguments (to support reasons and/or claims)
-* The most frequently encountered types of evidence, and their rhetorical functions
-* How to identify and analyze  rhetorical uses of evidence in arguments
+> * How evidence is used in arguments (to support reasons and/or claims)
+> * The most frequently encountered types of evidence, and their rhetorical functions
+> * How to identify and analyze  rhetorical uses of evidence in arguments
 
 In the last chapter, we discussed the reasons that a speaker can invent to support a claim. In this chapter, we will discuss how evidence is used to support reasons. For example, if you are trying to persuade your friend to prepare for an exam by studying a little bit every night rather than cramming, you might invent a few reasons:
-Studying for exams a little bit at a time results in better grades, so you should study for thirty minutes every night this week.
-I’m a good student. You should trust my advice.
-You’ll enjoy your half-hour study sessions. They’re relaxed. Nothing is more pleasant than reading over your notes and practicing a few calculus problems while enjoying a chai latte at the coffee shop down the road. You could do that every morning!
+* "Studying for exams a little bit at a time results in better grades, so you should study for thirty minutes every night this week."
+* "I’m a good student. You should trust my advice."
+* "You’ll enjoy your half-hour study sessions. They’re relaxed. Nothing is more pleasant than reading over your notes and practicing a few calculus problems while enjoying a chai latte at the coffee shop down the road. You could do that every morning!"
 In our imagined example, there is a reason to believe that certain study habits result in good grades, a reason to trust the speaker, and a reason to feel good about studying every day. The reason to believe seems a bit weak, however. Your friend may wonder, “How do you know that studying every day will lead to better grades? Do you know Eddie? That guy crams for every exam. And he’s a straight-A student!” Your friend has offered evidence—an example—to support their argument. As a result, they favor cramming. You can counter with evidence of your own: examples of people who study every day and proof that Eddie studies every day, despite what he says. All of your additional evidence supports that first reason to believe: Studying for exams a little bit at a time results in better grades, so you should study for thirty minutes every night this week
 
 Often, evidence supports reasons, which themselves support a claim. Evidence, however, may also directly support a claim. Returning to our example, imagine that you add to your argument the following evidence: Your professor says the best way to learn calculus is by practicing a little bit every day. This evidence directly supports your claim that daily study is preferable to cramming. The diagram below illustrates how some of your evidence supports a reason and some of your evidence supports the claim.
@@ -84,7 +84,7 @@ As the above maxims demonstrate, each specific expression requires cultural know
 
 To an audience who knows and believes a maxim, the expression can be very convincing. Rather than researching examples of excellent students who study early, I can say: “Instead of cramming for eight hours, you should study thirty minutes a day this week. After all, a stitch in time saves nine.”
 
-> <span style="color:purple"> **Brief Exercise:** For a week, keep a notebook and a pen at hand. When you hear an expression that you’ve heard before and that carries resonance with you or someone else, write it down. Then paraphrase the meaning. How often do you use or adhere to maxims in your daily life? How often do you see other people using or adhering to maxims in their everyday lives? In what public discourse do you hear speakers using maxims?
+>**Brief Exercise:** For a week, keep a notebook and a pen at hand. When you hear an expression that you’ve heard before and that carries resonance with you or someone else, write it down. Then paraphrase the meaning. How often do you use or adhere to maxims in your daily life? How often do you see other people using or adhering to maxims in their everyday lives? In what public discourse do you hear speakers using maxims?
 
 ### Fable
 A fable, like a maxim, captures a bit of cultural wisdom. Maxims package such wisdom in sentences. Fables package it in stories. Consider the well-known fable of the tortoise and the rabbit. The tortoise is slow. The rabbit is fast. The rabbit makes fun of the tortoise and challenges him to a race. The tortoise accepts. During the race, the rabbit runs far ahead and decides that he can take a nap. The tortoise steadily crawls to the finish line and wins the race. What wisdom is captured in this story? There’s the typical maxim: “Slow and steady wins the race.” There’s also another moral: Don’t believe you’re so good that you don’t have to try.
