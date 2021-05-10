@@ -78,7 +78,7 @@ Wikipedia is an “open-source” encyclopedia—almost anyone can contribute, a
 * Gale Virtual Reference Library
 * Opposing Viewpoints
 
->**Useful Suggestion:You can find descriptions of and advice about using each on the following UT library [webpage](http://www.lib.utexas.edu/services/instruction/rhe/findbackinfo.html)
+>**Useful Suggestion:** You can find descriptions of and advice about using each on the following UT library [webpage](http://www.lib.utexas.edu/services/instruction/rhe/findbackinfo.html)
 
 Encyclopedias are the research tools you want to keep always at your side but never at the center of your work. They help you to make sense of a new subject; and they might point you to new sources by introducing keywords or even by linking to a source. But you should not rely on encyclopedias for anything else, for two reasons: First, you want to see the information first-hand. Encyclopedias are so heavily curated that you cannot get the most recent or even the most important information from them. So you must go to the original sources—the people who first offered the ideas and opinions that encyclopedias reference. Second, experienced researchers know that encyclopedias are not the most up-to-date, the most relevant, or the most comprehensive sources. Encyclopedia entries are rarely written by experts, and they’re never written for specialists, so they tend to feature basic concepts. That’s why journalists and your professors chuckle when they read an article that relies heavily on Wikipedia for information. Wikipedia is a good start, but it should not be the end of your journey. If Wikipedia is your ultimate source, if it’s the first and the last thing you consult, then a knowledgeable audience will suspect that you are not knowledgeable yourself.
 
@@ -94,7 +94,7 @@ Encyclopedias are the research tools you want to keep always at your side but ne
 | Reddit | --------------- | --------------- | --------------- |
 | Yahoo News | --------------- | --------------- | --------------- |
 
->**How do these new research tools stack up against those we discussed earlier? Are they more like Internet search engines, databases, or encyclopedias? Or are they something else altogether? Are they useful to someone researching a controversy?
+>How do these new research tools stack up against those we discussed earlier? Are they more like Internet search engines, databases, or encyclopedias? Or are they something else altogether? Are they useful to someone researching a controversy?
 
 ## Evaluating Information
 Once you’ve found a pile of potentially useful sources, you will have to decide which will be most helpful to your work. We suggest finding more articles than you need because we suspect that some of what you find will not be useful. If your instructor requires that you cite at least three sources, try to find eight or even ten. Then you can start evaluating those sources.
