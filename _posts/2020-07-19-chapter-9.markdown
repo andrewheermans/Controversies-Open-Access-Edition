@@ -28,7 +28,7 @@ The next step toward writing a good counterargument is to represent the opposing
 
 > **Brief Exercise:** Write down all of the claims you want to make for your next argument. Then ask one of your classmates (or your roommate, or anyone else) to help you clarify your claims by rearticulating them until you are satisfied that what they say is what you meant.
 Here’s an example:
->* **Claim of student 1**: People should eat only organic food because it is always better for their health and for the environment.
+>* **Student 1**: People should eat only organic food because it is always better for their health and for the environment.
 >* **Student 2**: So are you saying that all people should eat only organic food because it’s better for their health and for the environment?
 >* **S1**: Yes.
 >* **S2**: Okay, if I understand you, even people who cannot afford organic food should eat only organic food because it is better to starve in a developing country than to eat nonorganic food.
@@ -125,7 +125,7 @@ Post hoc ergo propter hoc is Latin for “after this, and therefore as a result 
 
 Whether or not an audience will accept an argument at the topic of causation depends on that audience’s presuppositions and the evidence that they require. If they’re already willing to associate good economic performance with Democratic leadership, then they may take the sequence of events (first a Democrat wins the presidency, and then the economy gets better) as proof of causation. But if they’re skeptical of that connection, then they will want more evidence. To refute a post hoc ergo propter hoc argument, you can point out that more evidence is needed to prove causation. Sequence, in this case, is not enough to prove causation.
 
-> <span style="color:red"> **Brief Exercise**: Argue against yourself to improve your work. Return to the arguments that you invented to support your claims, and pretend that you’re writing as someone who opposes your viewpoint. If you’ve written the short writing assignment at the end of Chapter 8, simply open that file to revisit the reasons you invented. After reading each reason, try to refute it. If you invented an argument at the topic of definition, explain why it’s really an instance of reification or equivocation. If you invented an argument at the topic of causation, explain why it’s really a slippery-slope argument. After you’ve thoroughly refuted yourself, revise your initial arguments so that an opponent will not be able to refute them so easily.
+> **Brief Exercise**: Argue against yourself to improve your work. Return to the arguments that you invented to support your claims, and pretend that you’re writing as someone who opposes your viewpoint. If you’ve written the short writing assignment at the end of Chapter 8, simply open that file to revisit the reasons you invented. After reading each reason, try to refute it. If you invented an argument at the topic of definition, explain why it’s really an instance of reification or equivocation. If you invented an argument at the topic of causation, explain why it’s really a slippery-slope argument. After you’ve thoroughly refuted yourself, revise your initial arguments so that an opponent will not be able to refute them so easily.
 
 ## Rebuttal
 
