@@ -56,11 +56,11 @@ But, what if you think the death penalty is a just punishment that deters crime,
 
 **Some Terms to Help You Identify Questions:** Needless to say, people argue over an endless variety of questions. We can never classify them all. But we can use stasis theory, a simple guide that’s been around in one form or another since the Ancient Greeks. The basic idea behind stasis theory is that people tend to argue about certain kinds of questions.
  
-* Questions of fact: What exists? What has existed? What is likely to exist?
-* Questions of cause and effect:  What causes lead to what effects? What effects tend to come from what causes?
-* Questions of definition:  What do we call something? In what category does something belong?
-* Questions of value: Is something good or bad? Just or unjust? Beautiful or ugly?
-* Questions of procedure:  What should we do?
+* **Questions of fact:** What exists? What has existed? What is likely to exist?
+* **Questions of cause and effect:**  What causes lead to what effects? What effects tend to come from what causes?
+* **Questions of definition:**  What do we call something? In what category does something belong?
+* **Questions of value:** Is something good or bad? Just or unjust? Beautiful or ugly?
+* **Questions of procedure:**  What should we do?
 
 According to classical stasis theory, people tend to disagree first about questions of fact, next about cause and effect, then definition, value, and finally procedure. This is often illustrated with a murder trial:
 
@@ -68,11 +68,11 @@ First, we disagree about the facts of the matter: Did John stab Edward? If we ca
 
 The murder trial is a helpful example, but it doesn’t seem to apply to public arguments. So let’s apply stasis theory to a current public controversy, climate change:
 
-* Questions of Fact: Is the earth getting warmer? Are global climate patterns changing?
-* Questions of Cause and Effect: Is human activity the main cause behind these changes to global climate patterns? Do greenhouse gases principally resulting from human activity lead to global warming? 
-* Questions of Definition: Is this “global warming”? Is it “global climate change”? Is it “global weirding”? Is it a “media hoax”?
-* Questions of Value: Is global warming, even if caused by humans, all that bad? Is economic growth more important than protecting the environment?
-* Questions of Procedure: Should developing nations have to reduce their carbon emissions as much as industrialized nations? Would a “cap-and-trade” system work better or worse than strict limits on carbon emissions?
+* **Questions of Fact:** Is the earth getting warmer? Are global climate patterns changing?
+* **Questions of Cause and Effect:** Is human activity the main cause behind these changes to global climate patterns? Do greenhouse gases principally resulting from human activity lead to global warming? 
+* **Questions of Definition:** Is this “global warming”? Is it “global climate change”? Is it “global weirding”? Is it a “media hoax”?
+* **Questions of Value:** Is global warming, even if caused by humans, all that bad? Is economic growth more important than protecting the environment?
+* **Questions of Procedure:** Should developing nations have to reduce their carbon emissions as much as industrialized nations? Would a “cap-and-trade” system work better or worse than strict limits on carbon emissions?
 
 
 At the moment, we are debating all of these questions. But some questions are more important than others, so they get more attention in a debate about “global climate change.” If you were mapping this controversy, your job would be to show your reader which questions—fact, cause and effect, definition, value, or procedure—are most important. Which receive the most attention in the debate?
