@@ -8,8 +8,8 @@ categories: jekyll update
 # Chapter 3: Mapping the Controversy
 
 >**In this chapter, you will learn:** 
-strategies for synthesizing a collection of sources
-stasis theory, and its uses in mapping a controversy
+* strategies for synthesizing a collection of sources
+* stasis theory, and its uses in mapping a controversy
 
 After finding and summarizing viewpoints, you’re ready to start mapping the controversy. In this chapter, we will discuss strategies for making sense of all the information that you’ve collected.
 
