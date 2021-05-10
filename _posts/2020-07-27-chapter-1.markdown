@@ -83,7 +83,7 @@ Encyclopedias are the research tools you want to keep always at your side but ne
 
 >>> <span style="color:purple">**Brief Exercise:** We discuss Internet search engines, databases, and encyclopedias in terms of the media they tend to feature, the kind of information they privilege, and the levels of curation they offer. Using the following chart, describe a couple of other more recent research tools. Fill in the empty boxes in the last two rows of this table:
 
->>>| **Research Tool** | **Featured Media** | Kind of Information | **Level of Curation**
+| **Research Tool** | **Featured Media** | Kind of Information | **Level of Curation**
 | --------------- | --------------- | --------------- | --------------- |
 | Wikipedia | Digital | Summary Articles | Heavy |
 | Google | Digital | All kinds | None |
