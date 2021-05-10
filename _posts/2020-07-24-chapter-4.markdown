@@ -41,14 +41,14 @@ Research, as we explain above, can teach you about the speaker; it can also teac
 Another way to learn about an audience’s values, interests, and knowledge, is to look at other arguments published in the same venue. If you’re reading an article published in the Austin American-Statesman, you can assume that this newspaper’s audience shares its political bias. By reading editorials published in this newspaper, you can figure out whether the audience is liberal, conservative, or moderate. You can figure out what concerns these people. You can determine what they know (since they learn from the articles in the newspaper). 
 
 > **Brief Exercise:** Find an article related to a controversy you’re interested in or refer to one offered by your instructor. Summarize the argument, and describe the audience by completing the following templates:
-1. This article assumes that the audience already believes ____________. This is evident when the editors say, “_____________.”
-2. This article assumes that the audience already values ____________. This is evident when the editors mention ____________.
-3. This article assumes that the audience shares an interest in ____________. This is evident where the editors discuss ____________. 
+>1. This article assumes that the audience already believes ____________. This is evident when the editors say, “_____________.”
+>2. This article assumes that the audience already values ____________. This is evident when the editors mention ____________.
+>3. This article assumes that the audience shares an interest in ____________. This is evident where the editors discuss ____________. 
 >
 > When you complete these sentences, you will have a fair description of the intended audience for this argument—the people whom the speaker is trying to convince. 
 But intended audiences often fail to match up with real audiences, the people who actually read an argument. You can learn about the intended audience by looking at the text itself. You can learn about the real audience by looking outside the text. We suggest two sources:
-1. The comments posted by actual readers. Online sources often include comments in the footer, below the article. Print sources often solicit responses that appear in other print formats. Letters to the editor, for example, are short pieces written by readers in response to specific articles.
-2. Other opinion articles on similar subjects found in the same venue.
+>1. The comments posted by actual readers. Online sources often include comments in the footer, below the article. Print sources often solicit responses that appear in other print formats. Letters to the editor, for example, are short pieces written by readers in response to specific articles.
+>2. Other opinion articles on similar subjects found in the same venue.
 >
 >Using the information you find in the readers’ comments answer these questions: What do you think a specific reader believes or values? What are his expressed interests? Based on your research into other articles, what do you think the typical reader of this magazine, newspaper, or website believes or values? What are they interested in? Finally, do the beliefs, values, and interests identified as belonging to this article’s intended audience match those of its real audience?
 
@@ -78,12 +78,11 @@ As shown above, the reason and the evidence work together to convince the audien
 ## Chapter Assignment
 Identifying Parts of an Argument  Below, we offer a table that categorizes the kinds of evidence (both textual and contextual) that you can find to inform your analysis of the speaker, the audience, and the situation. We also offer suggestions for where to look to find such evidence.
 
-|-----| **Textual Evidence** | **Contextual Evidence 
-| --------------- | --------------- | --------------- | --------------- |
-| Speaker | Invented information about the speaker is information disclosed by the speaker through their text. For example: moments in the text when the speaker identifies their qualities, interests, or knowlege; aspects of the text like writing style or citations that tell you about the speaker's experiences or interests | Situated information about the speaker: biographical information that the audience is likely to know about the speaker. This info can be found by looking at other texts the speaker has composed or texts composed about them |  
-| Audience | Information about the intended audience: The values, interests, and beliefs that the argument appeals to all belong to the intended audience | 
+|| **Textual Evidence** | **Contextual Evidence** | 
+| **Speaker** | Invented information about the speaker is information disclosed by the speaker through their text. For example: moments in the text when the speaker identifies their qualities, interests, or knowlege; aspects of the text like writing style or citations that tell you about the speaker's experiences or interests | Situated information about the speaker: biographical information that the audience is likely to know about the speaker. This info can be found by looking at other texts the speaker has composed or texts composed about them |  
+| **Audience** | Information about the intended audience: The values, interests, and beliefs that the argument appeals to all belong to the intended audience | 
 Information about the real audience: The values, interests, and beliefs that belong to real people who encounter this argument. Gather this information by looking at readers’ responses to the argument and by looking at other arguments that the real audience finds persuasive.
-| Situation| Information about the situation that is mentioned in the argument itself | Information about the situation that can be learned by finding other sources | 
+| **Situation**| Information about the situation that is mentioned in the argument itself | Information about the situation that can be learned by finding other sources | 
 
 Once you’ve selected the text you want to analyze, try to find one bit of textual evidence to fit in each of the boxes in the “Textual Evidence” column. Try to find a quote, paragraph, or phrase that demonstrates invented information about the speaker, a description of the intended audience, or a description of the situation. Then try to find secondary texts with information to fill in the boxes in the “Contextual Evidence” column, such as an article, encyclopedia entry, or web page that demonstrates situated information about the speaker, information about the real audience, or information about the situation that is not mentioned directly in the text.
 
