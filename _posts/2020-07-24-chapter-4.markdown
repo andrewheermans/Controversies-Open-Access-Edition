@@ -81,15 +81,10 @@ Below, we offer a table that categorizes the kinds of evidence (both textual and
 
 | **Rhetorical Situation** | **Textual Evidence** | **Contextual Evidence** |
 | --------------- | --------------- | --------------- | --------------- | 
-| Speaker | Digital | Summary Articles | Heavy |
-|Audience | Digital | All kinds | None |
-| Situation | Digital | All kinds | None |
+| Speaker | Invented information about the speaker: moments in the text when the speaker identifies their qualities, interests, or knowlege; aspects of the text like writing style or citations that tell you about the speaker's experiences or interests | Situated information about the speaker: biographical information that the audience is likely to know or can find out. This info can be found by looking at other texts the speaker has composed or texts composed about them | 
+|Audience | Information about the intended audience: The values, interests, and beliefs that the argument appeals to all belong to the intended audience | Information about the real audience: The values, interests, and beliefs that belong to real people who encounter this argument. Gather this information by looking at readers’ responses to the argument and by  looking at other arguments that the real audience finds persuasive | 
+| Situation | Information about the situation that is mentioned in the argument itself | Information about the situation that can be learned by finding other sources | 
 
-| **Rhetorical Situation** | **Textual Evidence** | **Contextual Evidence**  
-| **Speaker** | Invented information about the speaker: moments in the text when the speaker identifies their qualities, interests, or knowlege; aspects of the text like writing style or citations that tell you about the speaker's experiences or interests | Situated information about the speaker: biographical information that the audience is likely to know or can find out. This info can be found by looking at other texts the speaker has composed or texts composed about them |  
-| **Audience** | Information about the intended audience: The values, interests, and beliefs that the argument appeals to all belong to the intended audience | 
-Information about the real audience: The values, interests, and beliefs that belong to real people who encounter this argument. Gather this information by looking at readers’ responses to the argument and by  looking at other arguments that the real audience finds persuasive.
-| **Situation**| Information about the situation that is mentioned in the argument itself | Information about the situation that can be learned by finding other sources | 
 
 Once you’ve selected the text you want to analyze, try to find one bit of textual evidence to fit in each of the boxes in the “Textual Evidence” column. Try to find a quote, paragraph, or phrase that demonstrates invented information about the speaker, a description of the intended audience, or a description of the situation. Then try to find secondary texts with information to fill in the boxes in the “Contextual Evidence” column, such as an article, encyclopedia entry, or web page that demonstrates situated information about the speaker, information about the real audience, or information about the situation that is not mentioned directly in the text.
 
