@@ -60,12 +60,12 @@ Arguments: (andy): Arguments are the content of the viewpoints a stakeholder has
 
 **Stasis:** “A simple guide that’s been around in one form or another since the Ancient Greeks. The basic idea behind stasis theory is that people tend to argue about certain kinds of questions. According to classical stasis theory, people tend to disagree first about questions of fact, next about cause and effect, then definition, value, and finally procedure.” (p. 45).
 
-*SQ of Fact: “What exists? What has existed? What is likely to exist?”
+* SQ of Fact: “What exists? What has existed? What is likely to exist?”
 
-*SQ of Cause & Effect: “What causes lead to what effects? What effects tend to come from what causes?”
+* SQ of Cause & Effect: “What causes lead to what effects? What effects tend to come from what causes?”
 
-*SQ of Definition: “What do we call something? In what category does something belong?”
+* SQ of Definition: “What do we call something? In what category does something belong?”
 
-*SQ of Value: “Is something good or bad? Just or unjust? Beautiful or ugly?”
+* SQ of Value: “Is something good or bad? Just or unjust? Beautiful or ugly?”
 
-*SQ of Procedure: “What should we do?”
+* SQ of Procedure: “What should we do?”
