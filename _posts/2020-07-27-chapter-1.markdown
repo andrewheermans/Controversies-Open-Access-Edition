@@ -12,13 +12,15 @@ categories: jekyll update
 >>>* How to identify a source’s bias and evaluate its credibility
 
 
+
 Now that we’ve spent time understanding controversies, we will introduce you to some basic tools for finding information about the topics you’re interested in. We will also help you to evaluate and use the sources you find. Before we do, however, we’d like to make a few points about research in general:
 * Research, like writing, is something you do over and over again. You don’t research once and then write. You research, write, research some more, write some more, research a bit more, write a bit more, and so on.
 * Research is not just the process of finding information. It’s also the process of evaluating information. As you research, you must decide what is useful or not useful to your project and in what ways.
 * Research requires looking through a range of sources to find different kinds of information.
 * Research generally begins with questions and keywords.
 
->><span style="color:brown">**Useful Suggestions:** If you haven’t developed a list of keywords, we recommend that you return to the end of the introductory chapter and complete the “Short Writing Assignment” presented there. It will help you develop a list of keywords. The UT library also offers an exercise that will help you develop a list of keywords; you can find it at: http://www.lib.utexas.edu/keywords/. Try either or both exercises. Most importantly, don’t start looking for sources until you’ve found some keywords that can guide your research.</span>
+
+>>><span style="color:brown">**Useful Suggestions:** If you haven’t developed a list of keywords, we recommend that you return to the end of the introductory chapter and complete the “Short Writing Assignment” presented there. It will help you develop a list of keywords. The UT library also offers an exercise that will help you develop a list of keywords; you can find it at: http://www.lib.utexas.edu/keywords/. Try either or both exercises. Most importantly, don’t start looking for sources until you’ve found some keywords that can guide your research.</span>
 
 ## Finding Information
 To introduce the basics of research, let’s explore three tools: the search engine, the database, and the encyclopedia. Each leads to a different kind of information.
